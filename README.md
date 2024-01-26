@@ -1,1 +1,1 @@
-[![Java CI with Gradle](https://github.com/Katiqa/Rest/actions/workflows/gradle.yml/badge.svg)](https://github.com/Katiqa/Rest/actions/workflows/gradle.yml)
+[![Build status](https://ci.appveyor.com/api/projects/status/5160f2qs8u9irhb8?svg=true)](https://ci.appveyor.com/project/Katiqa/rest)
